@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [lib]
-name = "bad_safe_doubly_linked_deque"  # Explicit lib declaration
-path = "src/lib.rs"                    # Entry point
+name = "bad_safe_doubly_linked_deque"  # Library target
+path = "src/lib.rs"
 
 [dependencies]
